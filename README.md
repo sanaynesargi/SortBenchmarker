@@ -1,5 +1,5 @@
 # SortBenchmarker
-A program that benchmarks common sorting algorithms and displays their overall perf#ormance
+A program that benchmarks common sorting algorithms and displays their overall performance
 
 
 # Steps to run benchmarks
