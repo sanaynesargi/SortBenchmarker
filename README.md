@@ -9,5 +9,5 @@ A program that benchmarks common sorting algorithms and displays their overall p
 3. Make sure you have python and pip installed (preferably in a virtual environment)
 4. run `pip install -r requirements.txt`
 
-## Your All Set
+## You're All Set
 ### Run `python main.py` to get started
