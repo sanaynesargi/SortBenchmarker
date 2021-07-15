@@ -144,7 +144,7 @@ class SortBenchmarker:
 
 
 def main():
-    sorter = SortBenchmarker(7, 10)
+    sorter = SortBenchmarker()
     sorter.run_tests()
     # arr = [34, 3, 1, 93, 9]
     # mergesort(arr)
